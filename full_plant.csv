@@ -1,0 +1,899 @@
+,plant_id,plant_name,is_bm,fuel_type,owner,zone,capacity,max_fpn
+0,T_PEHE-1,Peterhead Block 1,True,CCGT,Sse Thermal Generation,Z2,1200,1180
+1,T_RYHPS-1,Rye House,True,CCGT,Vpi Power,Z14,720.98 (-15),715
+2,T_SEAB-1,Seabank Power Module,True,CCGT,Seabank Power,Z13,830 (-11),810
+3,T_COSO-1,Coryton Power Station,True,CCGT,Coryton Energy Company,Z15,800 (-10.78),780
+4,T_SHBA-1,SOUTH HUMBER BANK P/S PHASE 1,True,CCGT,EP UK Investments,Z8,821.4 (-10),820
+5,T_MRWD-1,Marchwood Power Ltd,True,CCGT,Marchwood Power,Z17,920 (-15),902
+6,T_DINO-2,Dinorwig 2,True,Pumped Storage,First Hydro Company,Z9,320 (-294),300
+7,T_DAMC-1,Damhead Creek Ltd.,True,CCGT,Vpi Power,Z15,820 (-12),810
+8,T_LAGA-1,Langage Power Station,True,CCGT,EP UK Investments,Z17,905 (-30),870
+9,T_DINO-5,Dinorwig 5,True,Pumped Storage,First Hydro Company,Z9,320 (-299),300
+10,T_WBURB-2,West Burton B Unit 2,True,CCGT,West Burton B,Z10,470,451
+11,T_RATS-2,Ratcliffe 2,True,Coal,Uniper UK,Z11,504 (-16),500
+12,T_CNQPS-3,Connahs Quay 3,True,CCGT,Uniper UK,Z9,350 (-20),359
+13,T_SEAB-2,Seabank Power Module 2,True,CCGT,Seabank Power,Z13,406 (-11),400
+14,T_DRAXX-5,Drax 5,True,Coal,Drax Power,Z8,645,645
+15,T_ROCK-1,Rocksavage Power Station,True,CCGT,Rocksavage Power Company,Z9,810 (-13.2),798
+16,T_DINO-6,Dinorwig 6,True,Pumped Storage,First Hydro Company,Z9,320 (-294),300
+17,T_CNQPS-4,Connahs Quay 4,True,CCGT,Uniper UK,Z9,356 (-20),358
+18,T_MOWEO-2,Moray East,True,Wind,Moray Offshore Wind East,Z2,300 (-5.304),300
+19,T_RATS-1,Ratcliffe 1,True,Coal,Uniper UK,Z11,504 (-17.43),500
+20,T_SPLN-1,Spalding Power Station,True,CCGT,Spalding Energy Company,Z10,950 (-10),920
+21,T_CRUA-1,Cruachan,True,Pumped Storage,Drax Pumped Storage,Z4,123 (-134),120
+22,T_MEDP-1,Medway Power,True,CCGT,Medway Power,Z15,750 (-30),717
+23,T_WBURB-3,West Burton B Unit 3,True,CCGT,West Burton B,Z10,470 (-60),450
+24,T_MOWEO-3,Moray East,True,Wind,Moray Offshore Wind East,Z2,300 (-3.304),300
+25,T_MOWEO-1,Moray East,True,Wind,Moray Offshore Wind East,Z2,300 (-3.394),300
+26,T_KEAD-1,Keadby,True,CCGT,Keadby Generation,Z8,764 (-11),747
+27,T_CDCL-1,Cottam,True,CCGT,Uniper UK,Z10,445 (-12),440
+28,T_CARR-2,Carrington Power Ltd - Unit 2,True,CCGT,Carrington Power,Z9,470 (-10),455
+29,T_WBUPS-2,West Burton Unit 02,True,Coal,EDF Energy (Thermal Generation),Z10,503.7 (-30),450
+30,T_GRAI-8,Grain CHP,True,CCGT,Uniper UK,Z15,468 (-14),442
+31,T_CARR-1,Carrington Power Ltd - Unit 1,True,CCGT,Carrington Power,Z9,470 (-10),460
+32,E_SHOS-1,Shoreham Power Station,True,CCGT,Vpi Power,Z16,848.891 (-26.571),460
+33,T_DIDCB5,Didcot B main unit 5,True,CCGT,RWE Generation UK,Z13,770 (-10),752
+34,T_CNQPS-1,Connahs Quay 1,True,CCGT,Uniper UK,Z9,351.162 (-20),353
+35,T_WBURB-1,West Burton B Unit 1,True,CCGT,West Burton B,Z10,470 (-60),442
+36,T_RATS-3,Ratcliffe 3,True,Coal,Uniper UK,Z11,504 (-16),500
+37,T_RATS-4,Ratcliffe 4,True,Coal,Uniper UK,Z11,504 (-16),500
+38,T_STAY-2,Staythorpe Unit 2,True,CCGT,RWE Generation UK,Z10,464 (-15),454
+39,T_DIDCB6,Didcot B main unit 6,True,CCGT,RWE Generation UK,Z13,712.8 (-10),710
+40,T_GRAI-6,Grain CHP,True,CCGT,Uniper UK,Z15,468 (-14),430
+41,T_SHBA-2,SOUTH HUMBER BANK P/S PHASE 2,True,CCGT,EP UK Investments,Z8,580 (-10),565
+42,T_CNQPS-2,Connahs Quay 2,True,CCGT,Uniper UK,Z9,352 (-20),354
+43,T_HUMR-1,Immingham CHP,True,CCGT,VPI Immingham,Z8,1283 (-30),1265
+44,T_PEMB-21,Pembroke Unit 21,True,CCGT,RWE Generation UK,Z13,475 (-11),464
+45,T_DRAXX-6,Drax 6,True,Coal,Drax Power,Z8,645 (-31.945),645
+46,T_BEATO-3,Beatrice Offshore WF 3,True,Wind,Beatrice Offshore Windfarm,Z1,184 (-3.369),168
+47,T_EECL-1,Enfield Energy Centre Ltd BMU1,True,CCGT,Uniper UK,Z14,444 (-14.171),442
+48,T_BEATO-4,Beatrice Offshore WF 4,True,Wind,Beatrice Offshore Windfarm,Z1,184 (-3.563),168
+49,T_PEMB-51,Pembroke Unit 51,True,CCGT,RWE Generation UK,Z13,475 (-11),453
+50,T_PEMB-31,Pembroke Unit 31,True,CCGT,RWE Generation UK,Z13,475 (-11),451
+51,T_GRAI-7,Grain CHP,True,CCGT,Uniper UK,Z15,468 (-14),435
+52,T_KLGLW-1,Kilgallioch Windfarm,True,Wind,SP Renewables (UK),Z6,228 (-2.5),228
+53,T_WBUPS-1,West Burton Unit 01,True,Coal,EDF Energy (Thermal Generation),Z10,484 (-30),450
+54,T_CRUA-2,Cruachan,True,Pumped Storage,Drax Pumped Storage,Z4,124.76 (-134),120
+55,T_DINO-3,Dinorwig 3,True,Pumped Storage,First Hydro Company,Z9,320 (-302.2),300
+56,E_KLYN-A-1,Kings Lynn A,True,CCGT,RWE Generation UK,Z12,392 (-10),392
+57,T_BHLAW-1,Bhlaraidh Windfarm 1,True,Wind,SSE Generation,Z1,108 (-6.9),108
+58,T_SCCL-3,Saltend Unit 3,True,CCGT,SCCL,Z8,409.3 (-20),400
+59,T_DINO-4,Dinorwig 4,True,Pumped Storage,First Hydro Company,Z9,320 (-294),300
+60,T_FOYE-1,Foyers G1,True,Pumped Storage,SSE Generation,Z1,160 (-156),155
+61,T_CLDNW-1,Clyde North,True,Wind,Clyde Windfarm (Scotland),Z4,200 (-5),187
+62,T_BEATO-1,Beatrice Offshore WF 1,True,Wind,Beatrice Offshore Windfarm,Z1,138 (-2.538),126
+63,T_BEATO-2,Beatrice Offshore WF 2,True,Wind,Beatrice Offshore Windfarm,Z1,138 (-2.529),126
+64,T_SCCL-2,Saltend Unit 2,True,CCGT,SCCL,Z8,409.1 (-10),400
+65,T_CLDCW-1,Clyde Central,True,Wind,Clyde Windfarm (Scotland),Z4,200 (-10),187
+66,T_STAY-4,Staythorpe Unit 4,True,CCGT,RWE Generation UK,Z10,464 (-15),453
+67,T_PEMB-11,Pembroke Unit 11,True,CCGT,RWE Generation UK,Z13,475 (-11),454
+68,T_STAY-1,Staythorpe Unit 1,True,CCGT,RWE Generation UK,Z10,464 (-15),453
+69,T_STRNW-1,Strathy North Wind Farm 1,True,Wind,Sse Renewables Wind Farms,Z1,70 (-2),67
+70,E_PETEM1,Peterborough,True,CCGT,River Nene Power,Z12,245 (-5),240
+71,T_STAY-3,Staythorpe Unit 3,True,CCGT,RWE Generation UK,Z10,464 (-15),453
+72,T_PEMB-41,Pembroke Unit 41,True,CCGT,RWE Generation UK,Z13,475 (-11),448
+73,T_DRAXX-2,Drax 2,True,Biomass,Drax Power,Z8,645,645
+74,T_FALGW-1,Fallago Rig Wind Farm,True,Wind,Fallago Rig Wind Farm,Z6,144 (-2.5),144
+75,T_KILLPG-2,KILLINGHOLME PS TRADING UNIT,True,CCGT,Uniper UK,Z8,316 (-6),316
+76,T_DRAXX-3,Drax 3,True,Biomass,Drax Power,Z8,651.748 (-31.031),645
+77,T_LBAR-1,Little Barford main unit 1,True,CCGT,RWE Generation UK,Z12,734 (-20),733
+78,T_FFES-1,Ffestioniog 1,True,Pumped Storage,First Hydro Company,Z9,91.033 (-75),92
+79,T_WHILW-1,"Whitelee, Eaglesham Moor",True,Wind,SP Renewables (UK),Z6,308.147 (-6),305
+80,E_CORB-1,Corby,True,CCGT,Corby Power,Z12,407 (-0.1),385
+81,T_GRIFW-1,Griffin Wind Farm 1,True,Wind,Griffin Wind Farm,Z4,102 (-5),93
+82,T_GRIFW-2,Griffin Wind Farm 2,True,Wind,Griffin Wind Farm,Z4,102 (-5),101
+83,T_SCCL-1,Saltend Unit 1,True,CCGT,SCCL,Z8,408.2 (-10),400
+84,T_KILLPG-1,KILLINGHOLME PS TRADING UNIT,True,CCGT,Uniper UK,Z8,311 (-14),309
+85,E_GYAR-1,Great Yarmouth Power Limited,True,CCGT,RWE Generation UK,Z12,420 (-18),420
+86,2__PMARB001,Lochaber Hydro,True,Hydro,Marble Power,Z1,80 (-45.566),26
+87,E_BRDUW-1,Braes of Doune,True,Wind,Erova Energy,Z4,74 (-1),72
+88,T_GORDW-1,Gordon Bush,True,Wind,SSE Generation,Z1,71.5 (-0.423),70
+89,T_AKGLW-2,Aikengall Wind Farm,True,Wind,Aikengall 2 CWCL,Z6,63.84,63
+90,T_HADHW-1,Hadyard Hill Wind Farm,True,Wind,Sse Renewables Wind Farms,Z6,130 (-0.66),99
+91,E_BRYBW-1,Berry Burn Wind Farm,True,Wind,Statkraft Markets,Z1,66.7,66
+92,T_DRAXX-1,Drax 1,True,Biomass,Drax Power,Z8,660,660
+93,T_AKGLW-3,Aikengall 2A Wind Farm,True,Wind,Aikengall Iia Cwc,Z6,163.4 (-1),81
+94,T_CLDSW-1,Clyde South,True,Wind,Clyde Windfarm (Scotland),Z1,150 (-5),128
+95,T_WLNYO-4,Walney Extension,True,Wind,Walney Offshore Windfarms,Z9,330 (-3.94),329
+96,T_CGTHW-1,Corriegarth WF,True,Wind,Corriegarth Wind Energy,Z1,69,69
+97,T_DOREW-1,Dorenell Wind Farm One,True,Wind,Dorenell Windfarm,Z1,156.92 (-3.3),114
+98,E_BABAW-1,Baillie Wind Farm,True,Wind,Statkraft Markets,Z1,52.5 (-1),52
+99,T_FFES-2,Ffestioniog 2,True,Pumped Storage,First Hydro Company,Z9,91.875 (-75),93
+100,T_KPMRW-1,Kype Muir,True,Wind,Banks Renewable,Z6,89 (-2),86
+101,T_WHILW-2,Whitelee Extension,True,Wind,SP Renewables (UK),Z6,206 (-3.5),203
+102,T_FFES-4,Ffestioniog 4,True,Pumped Storage,First Hydro Company,Z9,90 (-75),90
+103,T_DUNGW-1,Dunmglass Windfarm 1,True,Wind,Dunmaglass Wind Farm,Z1,100 (-2),92
+104,T_FFES-3,Ffestioniog 3,True,Pumped Storage,First Hydro Company,Z9,90 (-75),90
+105,T_LCLTW-1,Lochluichart Windfarm,True,Wind,Eneco Energy Trade,Z1,69 (-0.5),69
+106,T_DOREW-2,Dorenell Wind Farm Two,True,Wind,Dorenell Windfarm,Z1,156.92 (-3.3),81
+107,T_KILBW-1,Kilbraur (Strathbrora),True,Wind,Kilbraur Wind Energy,Z1,68.51 (-1),67
+108,T_FOYE-2,Foyers G2,True,Pumped Storage,SSE Generation,Z1,160 (-156),150
+109,T_WLNYO-3,Walney Extension,True,Wind,Walney Offshore Windfarms,Z9,330 (-3),330
+110,T_MILWW-1,Millennium (Glenmoriston),True,Wind,Millennium Wind Energy,Z1,65 (-1),65
+111,T_HRSTW-1,Harestanes,True,Wind,SP Renewables (UK),Z6,142.3 (-3),125
+112,T_SEEL-1,Spalding Energy Expansion Ltd,True,OCGT,Intergen,Z10,300 (-10),299
+113,M_SLOY-1,Sloy G1,True,Hydro,SSE Generation,Z3,50,40
+114,T_FARR-2,Farr Unit 2,True,Wind,Smartestenergy,Z1,92 (-14),46
+115,T_STLGW-2,Stronelairg Windfarm 2,True,Wind,Sse Renewables Wind Farms,Z1,108 (-2),82
+116,T_FARR-1,Farr Unit 1,True,Wind,Smartestenergy,Z1,92 (-14),46
+117,T_BLLA-1,Black Law,True,Wind,SP Renewables (UK),Z6,118 (-3),118
+118,T_CRUA-4,Cruachan,True,Pumped Storage,Drax Pumped Storage,Z4,104 (-120),100
+119,T_SLOY-2,Sloy G2,True,Hydro,SSE Generation,Z3,40.912,40
+120,T_DRSLW-1,Dersalloch Windfarm,True,Wind,SP Renewables (UK),Z6,69 (-2.5),69
+121,T_ARCHW-1,Arecleoch,True,Wind,SP Renewables (UK),Z6,114 (-3),112
+122,T_STLGW-3,Stronelairg Windfarm 3,True,Wind,Sse Renewables Wind Farms,Z1,108 (-2),71
+123,E_CLDRW-1,Clashindarroch Wind Farm,True,Wind,Vattenfall Energy Trading,Z2,37.6 (-0.349),37
+124,T_EAAO-1,East Anglia One Offshore 1,True,Wind,East Anglia One,Z12,358 (-6.6),340
+125,E_ABRTW-1,Auchrobert Wind Farm,True,Wind,Npower Commercial Gas,Z6,36 (-10),36
+126,T_SLOY-3,Sloy G3,True,Hydro,SSE Generation,Z3,40.752,40
+127,T_STLGW-1,Stronelairg Windfarm 1,True,Wind,Sse Renewables Wind Farms,Z1,108 (-2),71
+128,T_GLWSW-1,Galawhistle Wind Farm,True,Wind,Galawhistle Wind Farm,Z6,55.2 (-0.72),55
+129,T_EAAO-2,East Anglia One Offshore 2,True,Wind,East Anglia One,Z12,340 (-7.5),340
+130,E_ASHWW-1,Andershaw Wind Farm,True,Wind,Statkraft Markets,Z6,35 (-1),35
+131,T_PNYCW-1,Pen y Cymoedd Wind Farm,True,Wind,Pen y Cymoedd Wind Farm,Z13,228 (-17.16),227
+132,T_SANQW-1,Sanquhar Wind farm,True,Wind,Sanquhar Cwcl,Z6,32.08,33
+133,C__PSTAT011,Nanclach Wind Farm,True,Wind,Statkraft Markets,Z1,40,40
+134,T_GLNDO-1,Glendoe Generator 1,True,Hydro,SSE Generation,Z1,100 (-6),100
+135,T_EDINW-1,Edinbane Windfarm,True,Wind,Vattenfall Wind Power,Z1,41.4 (-0.34),42
+136,2__MSTAT002,STAT_M3,True,Gas Recip,Statkraft Markets,-,50 (-4),48
+137,T_MIDMW-1,Middle Muir Wind Farm,True,Wind,Banks Renewable,Z6,51 (-1),49
+138,M_SLOY-4,Sloy G4,True,Hydro,SSE Generation,Z3,40,32
+139,2__PSTAT001,Cairn Uish / Rothes Wind Farm Ext.,True,Wind,Statkraft Markets,Z1,42,42
+140,E_ASLVW-1,Assel Valley Wind Farm,True,Wind,Npower Commercial Gas,Z6,26 (-6),25
+141,T_HOWAO-1,Hornsea One,True,Wind,Orsted Power,Z8,400 (-5.32),400
+142,E_CLAC-1,Clachan G1,True,Hydro,SSE Generation,Z3,41.425,42
+143,2__ASTAT003,STAT_A4,True,Supply,Statkraft Markets,-,42 (-4),40
+144,T_CRMLW-1,Corriemoillie,True,Wind,EDF Energy Customers,Z1,47.6,47
+145,2__EFLEX002,Staunch,True,Battery,Gresham House,Z9,20 (-20),20
+146,2__KANGE001,2__KANGE001,True,Gas Recip,Limejump Energy,-,50,48
+147,T_GORDW-2,Gordonblush Wind Farm,True,Wind,SSE Generation,Z1,50 (-0.1),46
+148,E_CROYD-2,Croydon PS,True,OCGT,Whitetower Energy,Z14,50 (-6),45
+149,E_DERBY-1,DERBY,True,OCGT,Whitetower Energy,Z11,56.084 (-6),55
+150,T_HOWAO-3,Hornsea One,True,Wind,Orsted Power,Z8,400 (-7.3),400
+151,2__MCNDL001,Brigg DG,True,Gas Recip,Neas Energy,Z8,49,48
+152,T_HOWAO-2,Hornsea One,True,Wind,Orsted Power,Z8,400 (-7.26),400
+153,T_CRYRW-2,Crystal Rig II Windfarm,True,Wind,Crystal Rig II,Z6,138 (-13.48),138
+154,T_HALSW-1,Halsary Windfarm,True,Wind,SP Renewables (UK),Z1,30 (-1),30
+155,T_EWHLW-1,Ewe Hill II Windfarm,True,Wind,SP Renewables (UK),Z6,37.358 (-2),37
+156,2__ACNDL001,Peterborough DG,True,Gas Recip,Neas Energy,Z12,49,48
+157,T_CRDEW-2,Crossdykes WF-2,True,Wind,Crossdykes WF,Z6,23.327 (-0.2),23
+158,T_CRDEW-1,Crossdykes WF-1,True,Wind,Crossdykes WF,Z6,23.764 (-0.2),23
+159,E_MOYEW-1,Moy Windfarm,True,Wind,Eneco Energy Trade,Z1,60 (-0.4),60
+160,E_ALCOA-1,Alcoa,True,Gas Recip,Conrad Energy (Trading),Z13,40.5 (-1.1),34
+161,2__GANGE001,2__GANGE001,True,Supply,Limejump Energy,-,50 (-2.1),20
+162,E_BTUIW-3,Beinn an Tuirc III Windfarm,True,Wind,SP Renewables (UK),Z3,51.126 (-1),49
+163,E_VKING-2,Viking,True,Other,Whitetower Energy,Z7,50 (-366.184),45
+164,T_BLLA-2,Black Law Windfarm Extension,True,Wind,SP Renewables (UK),Z6,69 (-2.5),60
+165,E_RDSCR-1,Redscar,True,Gas Recip,Conrad Energy (Trading),Z9,40,34
+166,E_SUDME-1,Sudmeadow,True,Gas Recip,Conrad Energy (Trading),Z13,40 (-1.1),35
+167,T_DOUGW-1,Douglas West Wind Farm,True,Wind,Erova Energy,Z6,45 (-0.532),45
+168,2__KFLEX001,,True,Gas Recip,Flexitricity,-,49,16
+169,E_EXETR-2,Exeter,True,OCGT,Whitetower Energy,Z17,50 (-6),45
+170,T_GLNKW-1,GLEN KYLLACHY WINDFARM,True,Wind,EDF Energy Customers,Z1,48.4 (-0.4),48
+171,T_RCBKO-1,RACE_BANK_Z01,True,Wind,Race Bank Wind Farm,Z12,284 (-3),279
+172,E_ABERDARE,Aberdare Power Station,True,Gas Recip,UK Power Reserve,Z13,15.44,16
+173,E_HLTWW-1,Hill of Towie,True,Wind,The Renewables Infrastructure Group (TRIG),Z1,48 (-1),48
+174,2__NANGE002,2__NANGE002,True,Supply,Limejump Energy,-,57.026 (-17.02),58
+175,E_HRHLW-1,Hare Hill Extension Windfarm,True,Wind,SP Renewables (UK),Z6,30 (-2),29
+176,E_SOLUTIA,Solutia Power Station,True,Gas Recip,UK Power Reserve,Z13,15.8,16
+177,T_ERRO-2,Errochty G2,True,Hydro,SSE Generation,Z4,25,25
+178,T_WISTW-2,Brockloch Rig 2 WF Exp A,True,Wind,Brockloch Rig Windfarm,Z6,61.5 (-0.336),62
+179,2__LUKPR001,UKPR S West,True,Gas Recip,UK Power Reserve,-,40 (-2),10
+180,M_CAS-GAR01,Garry Cascade,True,Hydro,SSE Generation,Z4,40,38
+181,E_BTUIW-2,Beinn An Tuirc 2,True,Wind,SP Renewables (UK),Z3,43.7 (-2.334),43
+182,T_MKHLW-1,Mark Hill,True,Wind,SP Renewables (UK),Z6,53 (-2.5),53
+183,T_WDRGW-1,Windy Rig Wind Farm,True,Wind,Greencoat Uk Wind,Z6,42.8 (-0.76),43
+184,T_ERRO-3,Errochty G3,True,Hydro,SSE Generation,Z4,25,25
+185,T_RCBKO-2,RACE_BANK_Z02,True,Wind,Race Bank Wind Farm,Z12,290 (-3),286
+186,E_RAKE-1,Rake Lane,True,Gas Recip,Conrad Energy (Trading),Z9,20 (-1),19
+187,2__DSTAT002,,True,Gas Recip,Statkraft Markets,-,14,14
+188,T_CRUA-3,Cruachan,True,Pumped Storage,Drax Pumped Storage,Z4,100 (-120),100
+189,T_GYMR-28,GyM OSPW 28,True,Wind,Gwynt Y Mor Offshore Wind Farm,Z9,148 (-3),144
+190,2__GANGE004,2__GANGE004,True,Gas Recip,Limejump Energy,-,20.34,20
+191,T_ERRO-1,Errochty G1,True,Hydro,SSE Generation,Z4,25,25
+192,M_CAS-CON01,Conon Cascade,True,Hydro,SSE Generation,Z1,90,84
+193,2__GSTAT002,STAT_G3,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+194,T_INDQ-1,Indian Queens,True,OCGT,Indian Queens Power,Z17,140.08 (-5),140
+195,E_DBFRM-1,Down Barn Farm,True,Gas Recip,Conrad Energy (Trading),Z16,20 (-1),18
+196,2__GSTAT001,STAT_G2,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+197,2__GSTAT003,,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+198,2__LANGE001,2__LANGE001,True,Battery,Limejump Energy,-,65 (-65),26
+199,E_GOSHS-1,Goose House Lane,True,Gas Recip,Conrad Energy (Trading),Z9,20 (-1),20
+200,E_FDUN-1,Fort Dunlop,True,OCGT,Whitetower Energy,Z11,99 (-1),98
+201,T_BRBEO-1,Burbo Bank Extension,True,Wind,Burbo Extension,Z9,257.7 (-5),254
+202,E_TAYL3G,Taylor's Lane,True,OCGT,Uniper UK,Z14,72 (-2.3),68
+203,2__DSMAE001,2__DSMAE001,True,Supply,Smartestenergy,-,35.786,36
+204,E_RDFRD-1,Redfield Road,True,Gas Recip,Conrad Energy (Trading),Z11,20.5 (-1),18
+205,E_BETHW-1,Beinn Tharsuinn,True,Wind,SP Renewables (UK),Z1,29.75 (-5.641),29
+206,E_RDFRB-1,Redfield Road B,True,Gas Recip,Conrad Energy (Trading),Z11,20 (-1),17
+207,2__JUKPR001,UKPR S East,True,Gas Recip,UK Power Reserve,-,31 (-2),5
+208,2__GANGE002,2__GANGE002,True,Gas Recip,Limejump Energy,-,50 (-6.58),20
+209,E_MORFL-1,Moorfield Drive,True,Gas Recip,Conrad Energy (Trading),Z9,20 (-1),20
+210,E_TULWW-2,Tullo Extension,True,Wind,Eneco Energy Trade,Z2,25 (-0.4),25
+211,E_LCHWT-1,Letchworth,True,Gas Recip,Conrad Energy (Trading),Z12,15 (-1),15
+212,2__PSTAT002,Mid Hill,True,Wind,Statkraft Markets,Z2,76,76
+213,E_RHEI-1,E_RHEI-1,True,Hydro,Statkraft Markets,Z13,50,50
+214,2__HFLEX001,2__HFLEX001,True,Gas Recip,Flexitricity,-,49,20
+215,2__FSTAT001,STAT_F2,True,Gas Recip,Statkraft Markets,-,50 (-2),49
+216,T_GNAPW-1,Glen App Windfarm,True,Wind,SP Renewables (UK),Z6,22 (-2),22
+217,2__GSMAE001,2__GSMAE001,True,Supply,Smartestenergy,-,19.402,20
+218,2__DSTAT001,STAT_D2,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+219,2__NANGE001,2_NANGE001,True,Gas Recip,Limejump Energy,-,50,20
+220,2__LSTAT001,2_LSTAT001,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+221,T_KENNW-1,Kennoxhead Wind Farm,True,Wind,Kennoxhead Wind Farm,Z6,60 (-0.1),60
+222,M_CAS-BEU01,Beauly Cascade,True,Hydro,SSE Generation,Z1,91,94
+223,V__MCEND002,Allen Diesels,True,Other,Centrica Business Solutions UK,-,19,19
+224,2__NFLEX003,2__NFLEX003,True,Gas Recip,Flexitricity,-,49,8
+225,E_TAYL2G,Taylor's Lane,True,OCGT,Uniper UK,Z14,73.95 (-2.3),72
+226,2__ESTAT001,STAT_E2,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+227,T_WDNSO-1,West of Duddon Sands Offshore1,True,Wind,Morecambe Wind,Z9,200.788 (-5),191
+228,V__GHABI001,Red Scar,True,Battery,Gresham House,Z9,49 (-49),49
+229,E_WTRLN-1,Water Lane,True,Gas Recip,Conrad Energy (Trading),Z17,20 (-1),19
+230,T_WLNYW-1,WALNEY_1,True,Wind,Walney Offshore Windfarms,Z9,182 (-2),182
+231,T_TDBNW-1,Toddleburn,True,Wind,SSE Generation,Z6,27.6 (-0.1),27
+232,2__JSTAT001,,True,Gas Recip,Statkraft Markets,-,22 (-2),20
+233,E_BNWKW-1,Burn of Whilk Windfarm,True,Wind,Eneco Energy Trade,Z1,22.5 (-0.1),22
+234,T_DNLWW-1,Dunlaw Extension,True,Wind,SP Renewables (UK),Z6,29.75 (-2),29
+235,2__DSTAT004,STAT_D5,True,Gas Recip,Statkraft Markets,-,16,16
+236,E_MINSW-1,Minsca Wind Farm,True,Wind,Mobius Renewables Gen. (GB),Z6,37.25 (-0.26),37
+237,M_CAS-KIL01,Killin Cascade,True,Hydro,SSE Generation,Z4,70,59
+238,T_WLNYO-2,Walney Offshore Windfarms,True,Wind,Walney Offshore Windfarms,Z9,183.6 (-2.886),183
+239,E_MDLWH-1,Middlewich,True,Gas Recip,Conrad Energy (Trading),Z9,20,20
+240,T_TWSHW-1,Twentyshilling Hill Wind Farm,True,Wind,Greencoat Uk Wind,Z6,37.8 (-7.324),38
+241,E_LSTWY-1,Lester Way,True,Gas Recip,Conrad Energy (Trading),Z13,12.72 (-1),12
+242,2__FSTAT002,STAT_F3,True,Gas Recip,Statkraft Markets,-,50.86 (-2),50
+243,E_BURGH-1,Burghfield Power Station,True,OCGT,Ssepg (Operations),-,96 (-0.567),45
+244,T_KEAD-2,Keadby-2 Main,True,CCGT,Keadby Generation,Z8,879.76 (-29),893
+245,E_CHTRY-1,Chatterley,True,Gas Recip,Conrad Energy (Trading),Z9,20,20
+246,2__DSMAR001,2__DSMAR001,True,Gas Recip,Smartestenergy,-,0,36
+247,T_GNFSW-1,Gunfleet Sands 1,True,Wind,Orsted Power,Z12,108 (-2),100
+248,2__GANGE003,2__GANGE003,True,Supply,Limejump Energy,-,10.321,10
+249,E_CHICK-1,Chickerell Power Station,True,OCGT,Ssepg (Operations),-,96 (-0.383),46
+250,V__DWELS001,MANWEB 1,True,Gas Recip,Welsh Power Group,-,16,16
+251,T_KEMB-1,Kemsley,True,Battery,Pivot Power,Z15,49.9 (-49.9),49
+252,E_BURWB-1,Burwell,True,Battery,SMS Energy Services,Z12,50 (-50),49
+253,2__MSTAT003,STAT_M4,True,Gas Recip,Statkraft Markets,-,16,16
+254,E_BSPHM-1,Bispham,True,Gas Recip,Conrad Energy (Trading),Z9,20,20
+255,2__DSTAT003,STAT_D4,True,Gas Recip,Statkraft Markets,-,20,20
+256,M_CAS-MOR01,Moriston Cascade,True,Hydro,SSE Generation,Z1,74,73
+257,T_THNTO-1,Thanet 1,True,Wind,Vattenfall Wind Power,Z15,287.699 (-3),150
+258,T_THNTO-2,Thanet 2,True,Wind,Vattenfall Wind Power,Z15,230.159 (-3),150
+259,2__MFLEX002,Thurcroft,True,Battery,Gresham House,Z8,50 (-50),49
+260,T_HMGTO-1,Humber Offshore Wind Farm BMU1,True,Wind,Rwe Renewables Uk Humber Wind,Z8,108 (-6),108
+261,2__PENEC001,Rothes Windfarm,True,Wind,Eneco Energy Trade,Z1,50.6 (-0.4),50
+262,2__MSMAE001,2__MSMAE001,True,Supply,Smartestenergy,-,21.158,21
+263,E_TRFPK-1,Trafalgar Park,True,Gas Recip,Conrad Energy (Trading),Z11,14 (-1.1),14
+264,E_TULWW-1,Tullo Windfarm,True,Wind,Eneco Energy Trade,Z2,17 (-0.16),17
+265,T_GNFSW-2,Gunfleet Sands 2,True,Wind,Orsted Power,Z12,64.48 (-1),65
+266,2__BSMAR002,2__BSMAR002,True,Supply,Smartestenergy,-,6.068,6
+267,V__GWELS001,Welsh Power North West 1,True,Gas Recip,Welsh Power Group,-,0,16
+268,2__NHPOW001,__NHPOW001,True,Gas Recip,Drax Energy Solutions,-,25,24
+269,V__KWELS001,Welsh Power South Wales 1,True,Gas Recip,Welsh Power Group,-,0,16
+270,T_COWB-1,Cowley,True,Battery,Pivot Power,Z13,50 (-50),49
+271,2__ALOND002,,False,Supply,,-,-,49
+272,T_WDNSO-2,West of Duddon Sands Offshore2,True,Wind,Morecambe Wind,Z9,200.368 (-5),191
+273,V__KWELS002,Welsh Power South Wales 2,True,Gas Recip,Welsh Power Group,-,0,16
+274,2__NFLEX004,2__NFLEX004,True,Gas Recip,Flexitricity,-,49,4
+275,T_GYMR-26,GyM OSPW 26,True,Wind,Gwynt Y Mor Offshore Wind Farm,Z9,148 (-3),144
+276,E_DALSW-1,Dalswinton Windfarm,True,Wind,Mobius Renewables Gen. (GB),Z6,30 (-0.14),30
+277,2__HSMAE001,2__HSMAE001,True,Supply,Smartestenergy,-,15.748,16
+278,2__PENEC002,,True,Supply,Eneco Energy Trade,Z1,64.4 (-0.4),64
+279,T_BOWLW-1,Barrow Offshore Wind,True,Wind,Barrow Offshore Wind,Z9,90 (-2),88
+280,T_HMGTO-2,Humber Offshore Wind Farm BMU2,True,Wind,Rwe Renewables Uk Humber Wind,Z8,111 (-6.2),111
+281,V__HWELS001,Welsh Power Southern 1,True,Gas Recip,Welsh Power Group,-,0,16
+282,T_GRAI1G,Grain AGT,True,OCGT,Uniper UK,Z15,30,28
+283,E_BRIDGWTR,Bridgwater Power Station,True,Gas Recip,UK Power Reserve,Z17,10.18,10
+284,E_GLOFW-1,Glens of Foudland,True,Wind,Glens of Foudland,Z2,26.7 (-2),26
+285,V__MEROV001,V__MEROV001,True,Other,Erova Energy,-,0,81
+286,2__KUKPR001,UKPR S Wales,True,Gas Recip,UK Power Reserve,-,108 (-2),10
+287,T_WBUPS-4,West Burton Unit 04,True,Coal,EDF Energy (Thermal Generation),Z10,489 (-30),420
+288,T_GRAI4G,Grain AGT,True,OCGT,Uniper UK,Z15,29.67,28
+289,2__MSTAT001,Creyke Beck,True,Battery,Statera,Z8,50 (-50),50
+290,V__NFLEX001,,True,Other,Flexitricity,Z1,0,12
+291,2__GSTAT004,STAT_G5,True,Gas Recip,Statkraft Markets,-,20.366 (-2),20
+292,T_CRGHW-1,Carraig Gheal Wind Farm,True,Wind,Statkraft Markets,Z3,46 (-0.2),46
+293,T_GRGBW-2,Greater Gabbard Module 2,True,Wind,Greater Gabbard Offshore Winds,Z12,240 (-5),165
+294,T_NANT-1,Nant,True,Hydro,SSE Generation,Z3,20,15
+295,T_ABRBO-1,Aberdeen Offshore Wind Farm,True,Wind,Aberdeen Offshore Wind Farm,Z2,99 (-2),98
+296,2__MSMAR001,2__MSMAR001,True,Gas Recip,Smartestenergy,-,0,21
+297,V__DWELS002,MANWEB 2,True,Gas Recip,Welsh Power Group,-,0,14
+298,2__AFLEX005,,True,Gas Recip,Flexitricity,-,49,20
+299,V__HWELS002,Welsh Power Southern 2,True,Gas Recip,Welsh Power Group,-,0,16
+300,2__GLOND001,Lascar Works,True,Battery,Gore Street Capital,Z9,20 (-20),20
+301,E_COWE1,Cowes Main Unit 1,True,OCGT,RWE Generation UK,Z16,70 (-1.202),70
+302,V__HHABI001,Roundponds,True,Battery,Gresham House,Z13,20 (-20),20
+303,2__GSMAR001,2__GSMAR001,True,Gas Recip,Smartestenergy,-,0,20
+304,E_TDRVE-1,The Drove,True,Gas Recip,Conrad Energy (Trading),Z17,6 (-1),6
+305,2__AFLEX003,2__AFLEX003,True,Gas Recip,Flexitricity,-,49,14
+306,E_SEVINGTN,Sevington District Energy,True,Gas Recip,UK Power Reserve,Z15,10.3,10
+307,2__MSMAE002,2__MSMAE002,True,Supply,Smartestenergy,-,15.72,16
+308,E_BLARW-1,Blary Hill Wind Farm,True,Wind,The Renewables Infrastructure Group (TRIG),Z3,70,32
+309,2__GSMAR002,,True,Supply,Smartestenergy,-,0,6
+310,2__MSMAR002,2__MSMAR002,True,Gas Recip,Smartestenergy,-,0,16
+311,2__HANGE005,2__HANGE005,True,Gas Recip,Limejump Energy,-,5.88,6
+312,V__KGAZP002,Brecon Power STOR,True,Gas Recip,Gazprom Marketing & Trading LD,-,0,18
+313,T_LARYW-4,London Array BMU4,True,Wind,London Array,Z15,171 (-10.56),175
+314,2__HSMAR001,2__HSMAR001,True,Gas Recip,Smartestenergy,-,0,16
+315,T_OMNDW-1,Ormonde Energy Limited 1,True,Wind,Ormonde Energy,Z9,150.76,138
+316,2__AFLEX004,,True,Gas Recip,Flexitricity,Z1,49,18
+317,E_GDSTW-1,Gordonstown,True,Wind,Mobius Renewables Gen. (GB),Z2,12.98 (-0.088),13
+318,T_BLKWW-1,Blackcraig Windfarm,True,Wind,Blackcraig Wind Farm,Z6,52.9 (-0.8),53
+319,2__GFLEX002,,True,Supply,Flexitricity,-,49,20
+320,T_GANW-11,Galloper OSP 11,True,Wind,Galloper Offshore Windfarm,Z12,88 (-3),84
+321,T_GYMR-15,GyM OSPE 15,True,Wind,Gwynt Y Mor Offshore Wind Farm,Z9,148 (-3),144
+322,2__FFLEX001,2__FFLEX001,True,Gas Recip,Flexitricity,-,49 (-2.421),8
+323,T_LARYW-1,London Array BMU1,True,Wind,London Array,Z15,171 (-10.32),180
+324,T_WHIHW-1,Whiteside Hill WF,True,Wind,Whiteside Hill,Z6,27.52 (-0.1),27
+325,M_CAS-CLU01,Clunie Cascade,True,Hydro,SSE Generation,Z4,76.2,76
+326,T_LARYW-2,London Array BMU2,True,Wind,London Array,Z15,171 (-10.56),176
+327,E_COWE2,Cowes Main Unit 2,True,OCGT,RWE Generation UK,Z16,70,70
+328,E_BURBO,Burbo Offshore Wind,True,Wind,Orsted Burbo (UK),Z9,90 (-2),90
+329,V__MADEL001,,True,Other,Adela Energy,-,0,8
+330,2__GLOND002,Hulley Road,True,Battery,Gore Street Capital,Z9,20 (-20),20
+331,V__EADEL001,,True,Other,Adela Energy,-,0,8
+332,T_CRYRW-3,Crystal Rig III,True,Wind,Crystal Rig 3,Z6,13.8 (-0.1),14
+333,V__BADEL001,,True,Other,Adela Energy,-,0,7
+334,T_LARYW-3,London Array BMU3,True,Wind,London Array,Z15,171 (-10.56),180
+335,2__PPGEN003,Camster,True,Wind,E.ON UK,Z1,50 (-4),50
+336,T_BEINW-1,Beinneun Wind farm,True,Wind,Beinneun Wind Farm,Z1,108.8 (-0.8),109
+337,T_GRGBW-1,Greater Gabbard Module 1,True,Wind,Greater Gabbard Offshore Winds,Z12,240 (-5),164
+338,T_WTMSO-1,Westermost Rough Windfarm,True,Wind,Westermost Rough,Z8,205 (-40),206
+339,V__GADEL001,,True,Other,Adela Energy,-,0,6
+340,T_WBUGT-4,West Burton GT 04,True,OCGT,EDF Energy (Thermal Generation),Z10,21,20
+341,2__PEDGE003,2__PEDGE003,True,Supply,Edgware Energy,-,50,49
+342,E_CONTB-1,Contego,True,Battery,Harmony / FRV,Z16,34 (-34),34
+343,T_WBUGT-1,West Burton GT 01,True,OCGT,EDF Energy (Thermal Generation),Z10,21.94,20
+344,T_RRWW-1,Robin Rigg West,True,Wind,Rwe Renewables Uk Robin Rigg,Z7,90.838 (-6),90
+345,2__HLOND001,EDFE Aggregate S E 01,True,Battery,EDF Energy Customers,Z16,30 (-30),29
+346,2__NFLEX006,,True,Gas Recip,Flexitricity,-,49,20
+347,2__BSMAR003,,True,Supply,Smartestenergy,-,0,2
+348,2__NFLEX007,,True,Gas Recip,Flexitricity,-,49,20
+349,E_BARNB-1,Hunningley Stairfoot,True,Battery,SMS Energy Services,Z8,40 (-40),40
+350,E_CLFLW-1,Clachan Flats,True,Wind,SP Renewables (UK),Z3,15 (-2),14
+351,V__HADEL001,,True,Other,Adela Energy,-,0,7
+352,T_GANW-22,Galloper OSP 22,True,Wind,Galloper Offshore Windfarm,Z12,88 (-3),84
+353,T_GRGBW-3,Greater Gabbard Module 3,True,Wind,Greater Gabbard Offshore Winds,Z12,240 (-5),164
+354,2__FSTAT003,STAT_F4,True,Supply,Statkraft Markets,-,50.819,50
+355,V__JZENO001,Aylesford,True,Battery,Zenobe Energy,Z15,29 (-29),24
+356,T_DRAXX-12G,Drax GT 12,True,OCGT,Drax Power,Z8,32,32
+357,T_DRAXX-10G,Drax GT 10,True,OCGT,Drax Power,Z8,32.728,32
+358,E_THRNL-1,Thornhill Power Station,True,CCGT,Whitetower Energy,Z8,50 (-6),40
+359,T_MYGPW-1,Minnygap Wind Farm,True,Wind,Aviva Investors Infrastructure,Z6,25 (-0.4),25
+360,2__NFLEX005,,True,Gas Recip,Flexitricity,-,49,20
+361,2__PSMAE001,2__PSMAE001,True,Supply,Smartestenergy,-,0,48
+362,2__NFSEN007,Byers Brae,True,Battery,Gresham House,Z6,29 (-29),29
+363,T_PNYCB-1,Pen y Cymoedd,True,Battery,Vattenfall,Z13,22 (-22),11
+364,2__NFLEX001,,True,Battery,Flexitricity,-,16 (-16.15),16
+365,2__GFLEX001,,True,Gas Recip,Flexitricity,-,49,10
+366,2__JSTAT002,STAT_J3,True,Battery,Statkraft Markets,-,6.24 (-6.24),6
+367,T_DRAXX-9G,Drax GT 9,True,OCGT,Drax Power,Z8,32.454,32
+368,T_GANW-24,Galloper OSP 24,True,Wind,Galloper Offshore Windfarm,Z12,88 (-3),84
+369,E_DIDC2G,Didcot OCGT Unit 2,True,OCGT,RWE Generation UK,Z13,25,25
+370,2__ESMAR001,2__ESMAR001,True,Supply,Smartestenergy,-,0,1
+371,V__KGAZP001,Rhymney,True,Gas Recip,Gazprom Marketing & Trading LD,-,0,10
+372,2__EUKPR001,UKPR Mid,True,Gas Recip,UK Power Reserve,-,20 (-2),20
+373,E_DIDC1G,Didcot OCGT Unit 1,True,OCGT,RWE Generation UK,Z13,25,25
+374,T_WBURB-43,West Burton B,True,Other,EIG,Z10,30 (-30.338),29
+375,2__AFLEX001,2__AFLEX001,True,Gas Recip,Flexitricity,-,49 (-0.691),4
+376,2__EFLEX001,Larport Farm,True,Battery,Gore Street Capital,Z13,19.5 (-19.5),20
+377,E_ARNKB-1,Bloxwich,True,Battery,Gresham House,Z11,41 (-41),41
+378,2__PEDGE004,2__PEDGE004,True,Supply,Edgware Energy,-,24.7,24
+379,T_FSDLW-1,Freasdail Wind Farm,True,Wind,The Renewables Infrastructure Group (TRIG),Z3,22.2 (-0.4),22
+380,E_TLYMW-1,Tullymurdoch Wind Farm,True,Wind,Limejump Energy,Z4,14.36 (-0.16),15
+381,T_PINFB-3,Capenhurst,True,Battery,Zenobe Energy,Z9,26 (-26),25
+382,T_PINFB-2,Capenhurst,True,Battery,Zenobe Energy,Z9,26 (-26),25
+383,T_PINFB-1,Capenhurst,True,Battery,Zenobe Energy,Z9,26 (-26),25
+384,2__NSTAT002,,True,Gas Recip,Statkraft Markets,-,20,20
+385,E_HYWDW-1,Hywind Generator BMU1,True,Wind,HYWINDSC,Z2,30 (-0.803),30
+386,2__ESTAT002,,True,Gas Recip,Statkraft Markets,-,4,4
+387,T_LNCSW-1,Lincs wind farm offshore BMU1,True,Wind,Lincs Wind Farm,Z12,150 (-4),128
+388,T_WBURB-41,West Burton B,True,Other,EIG,Z10,49 (-30),30
+389,E_DIDC4G,Didcot OCGT Unit 4,True,OCGT,RWE Generation UK,Z13,25,25
+390,V__LFLEX001,Mullacott-Roundswell,True,Battery,Philip Dennis,Z17,4 (-4),4
+391,E_DIDC3G,Didcot OCGT Unit 3,True,OCGT,RWE Generation UK,Z13,25,25
+392,E_BHOLB-1,Holes Bay,True,Battery,Harmony / FRV,Z17,7 (-7),7
+393,T_RMPNO-1,Rampion Offshore Wind BMU 1,True,Wind,Rampion Offshore Windfarm,Z16,200.1 (-10.7),200
+394,T_WBUPS-3,West Burton Unit 03,True,Coal,EDF Energy (Thermal Generation),Z10,503 (-30),450
+395,T_PINFB-4,Capenhurst,True,Battery,Zenobe Energy,Z9,26 (-26),25
+396,T_GYMR-17,GyM OSPE 17,True,Wind,Gwynt Y Mor Offshore Wind Farm,Z9,148 (-3),143
+397,T_LNCSW-2,Lincs wind farm offshore BMU2,True,Wind,Lincs Wind Farm,Z12,150 (-4),138
+398,V__EGAZP001,Hem Heath (Trentham Lakes) Energy Park,True,Other,Gazprom Marketing & Trading LD,-,0,2
+399,2__HSTAT001,,True,Battery,Statkraft Markets,-,50 (-50),50
+400,2__BFLEX002,Breach Farm,True,Battery,Gore Street Capital,Z11,10 (-10),10
+401,2__MFLEX001,2__MFLEX001,True,Gas Recip,Flexitricity,-,49,6
+402,T_RATSGT-2,Ratcliffe GT 1,True,OCGT,Uniper UK,Z11,18,17
+403,T_GANW-13,Galloper OSP 13,True,Wind,Galloper Offshore Windfarm,Z12,88 (-3),84
+404,2__BSTAT002,STAT_B3,True,Gas Recip,Statkraft Markets,-,6,6
+405,T_RATSGT-4,Ratcliffe GT 2,True,OCGT,Uniper UK,Z11,18.504,17
+406,T_LBAR-1G,Little Barford OCGT,True,OCGT,RWE Generation UK,Z12,25,15
+407,T_SHRSW-1,Sheringham Shoal Unit 1,True,Wind,Scira Offshore Energy,Z12,158.4 (-1.1),157
+408,T_SHRSW-2,Sheringham Shoal Unit 2,True,Wind,Scira Offshore Energy,Z12,158.4 (-1.1),157
+409,2__HANGE004,Minety 2,True,Battery,Penso Power,Z13,50 (-50),50
+410,2__GFLEX003,,True,Gas Recip,Flexitricity,-,6 (-2),6
+411,T_RMPNO-2,Rampion Offshore Wind BMU 2,True,Wind,Rampion Offshore Windfarm,Z16,200.1 (-10.7),200
+412,T_ANSUW-1,An Suidhe 1,True,Wind,Statkraft Markets,Z4,19.36 (-0.12),15
+413,E_HAWKB-1,Hawkers Hill,True,Battery,TagEnergy,Z17,20 (-20),20
+414,2__BFLEX001,2__BFLEX001,True,Battery,Flexitricity,-,7 (-6.727),7
+415,E_ARNKB-2,Lower Road,True,Battery,Gore Street Capital,Z15,10 (-10),10
+416,E_PILLB-1,Pillswood,True,Battery,Harmony,Z8,49.9 (-49.9),49
+417,T_COUWW-1,Cour Wind Farm,True,Wind,Cour Wind Farm (Scotland),Z3,20.5 (-0.4),21
+418,2__BSTAT001,STAT_B2,True,Gas Recip,Statkraft Markets,-,4,2
+419,2__KSTAT001,STAT_K2,True,Gas Recip,Statkraft Markets,-,10,7
+420,V__BCEND002,,False,Other,,-,-,10
+421,V__LCEND001,,True,Supply,Centrica Business Solutions UK,-,0,0
+422,2__BFLEX003,,True,Supply,Flexitricity,-,49,7
+423,T_KEADGT-3,Keadby GT 3,True,OCGT,Keadby Generation,Z9,30,24
+424,E_CRGTW-1,Craig 2 Wind Farm,True,Wind,British Gas Trading,Z6,4.7 (-0.2),5
+425,2__CMRCY001,2__CMRCY001,True,Battery,Octopus Energy,-,2 (-2),2
+426,V__BGBLO001,,True,Other,GridBeyond,-,0,0
+427,2__ALOND001,EDFE Aggregate Eastern 01,True,Supply,EDF Energy Customers,-,6.625 (-5.811),11
+428,2__BFSEN005,2__BFSENOK5,True,Supply,F&S Energy,-,45.38 (-49.801),42
+429,T_DDGNO-1,Dudgeon Generator BMU 1,True,Wind,Dudgeon Offshore Wind,Z12,108 (-1.34),108
+430,T_DDGNO-2,Dudgeon Generator BMU 2,True,Wind,Dudgeon Offshore Wind,Z12,90 (-1.32),90
+431,T_DDGNO-3,Dudgeon Generator BMU 3,True,Wind,Dudgeon Offshore Wind,Z12,102 (-1.3),102
+432,T_AFTOW-1,Afton Wind Farm,True,Wind,Afton Wind Farm,Z6,50 (-2),49
+433,E_FASN-4,Fasnakyle G4,True,Hydro,SSE Generation,Z1,8,8
+434,V__PFLEX001,,True,Other,Flexitricity,Z1,0,2
+435,KIWI-9,,False,Other,,-,10,-
+436,UF_KWP05,,False,Other,,-,-,-
+437,E_SKELB-1,Skelmersdale,True,Battery,Amber Infrastructure Group,Z9,49.9 (-49.9),49
+438,UF_PGP02,,False,Other,,-,-,-
+439,V__AZENO002,Claredown Farm,True,Battery,Zenobe Energy,Z12,20 (-20),19
+440,CADGE-4,Cadoxton Power,False,Gas Recip,Fern Trading,Z13,4,-
+441,KIWI-3,,False,Other,Kiwi Power,-,8,-
+442,E_DIDC03G,Didcot GT 3,True,OCGT,Unknown,Z13,25,-
+443,ERNES-1,,False,Other,ATTUNE ENERGY,-,0,-
+444,ANSC-101,Littlebrook,False,Battery,Gresham House,Z14,8 (-8),-
+445,UF_PLH01,,False,Other,,-,-,-
+446,2__LANGE002,Fideoak Mill,True,Battery,SSDC Opium Power,Z17,30 (-30),22
+447,KILGE-4,Kiln Power,False,Gas Recip,Fern Trading,Z11,4,-
+448,AG -GEDF02,,False,Supply,EDF Energy Customers,-,20,-
+449,UF_NPR01,,False,Other,,-,-,-
+450,SELGE-2,,False,Gas Recip,Selby Power,-,4,-
+451,STAGE-4,St Asaph Power,False,Gas Recip,Fern Trading,Z9,4,-
+452,WHAGE-4,Wharf Power,False,Gas Recip,Fern Trading,Z9,4,-
+453,BGIN_1,,False,Battery,SSE Energy Supply,-,1,-
+454,DAFGE-1,Dafen Reserve Power,False,Gas Recip,Fern Trading,Z13,4,-
+455,EDFE-10,,False,Battery,EDF Energy Customers,-,28,-
+456,ANSC-011,,False,Supply,ANESCO,-,3,-
+457,CYNGE-2,Cynon Power,False,Gas Recip,Fern Trading,Z13,4,-
+458,KIWI-43,,False,Other,,-,45,-
+459,DBESS-22,,False,Battery,Zenobe Energy,-,0,-
+460,KIWI-4,,False,Gas Recip,Kiwi Power,-,7,-
+461,SOC8-FFR,,False,Supply,Social Energy,-,-,-
+462,UF_UKP02,,False,Other,,-,-,-
+463,GRIM-1,,False,Gas Recip,RWE Generation UK,-,20,-
+464,GBND_5,,False,Battery,GridBeyond,-,1,-
+465,LARGE-3,,False,Gas Recip,Larigan Power,-,4,-
+466,UF_HCL01,,False,Other,,-,-,-
+467,RDLGE-4,,False,Gas Recip,Redlake Power,-,4,-
+468,UF_UPE03,,False,Other,Upside Energy,-,1,-
+469,SSTWA-1,,False,Other,South Staffordshire Water,-,14,-
+470,SOC10-LFS,,False,Other,Levelise,-,1,-
+471,UF_KFLX01,,False,Battery,Octopus Energy,-,2,-
+472,UF_GBD06,,False,Other,GridBeyond,-,17,-
+473,STOWB-1,,False,Other,VALENCE POWER,-,0,-
+474,STOWA-1,,False,Other,PRECISE ENERGY,-,0,-
+475,AG -AEDF02,,False,Supply,EDF Energy Customers,-,-,-
+476,2__HSTAT002,STAT_H3,True,Battery,Statkraft Markets,-,50 (-50),50
+477,CULGE-2,Culvery Power,False,Gas Recip,Fern Trading,Z9,4,-
+478,FTE-2,,False,CHP,,-,3,-
+479,UF_UKP03,,False,Other,,-,-,-
+480,OPEN-2,,False,Supply,Open Energi,-,-,-
+481,UKPRA-20,,False,Gas Recip,UK Power Reserve,-,20,-
+482,HARGE-2,,False,Gas Recip,Harbourne Power,-,4,-
+483,ANSC-006,Ancala 6,False,Battery,Gore Street Capital,-,1 (-1),-
+484,PGFFR-5,,False,Supply,Peak Gen,-,0,-
+485,UKPRA-6,,False,Gas Recip,UK Power Reserve,-,10,-
+486,SOC3-FFR,,False,Supply,Social Energy,-,1,-
+487,DAFGE-2,Dafen Reserve Power,False,Gas Recip,Fern Trading,Z13,6,-
+488,CADGE-1,Cadoxton Power,False,Gas Recip,Fern Trading,Z13,4,-
+489,EONDC-02,,False,Battery,Eon Uk Heat,-,15 (-15),-
+490,IRWGE-1,,False,Other,Irwell Power,-,4,-
+491,VEST-1,,False,Supply,VEST Energy,-,2,-
+492,AFFR-3,,False,Battery,Sembcorp,Z7,20 (-20),-
+493,HAB8-FFR,Leverton,False,Battery,Eel Power,Z10,10 (-10),-
+494,UPEN-3,,False,Supply,Upside Energy,-,1,-
+495,CRMU-1,,False,Other,FLEXIBLE GENERATION,-,0,-
+496,FTE-3,,False,CHP,,-,4,-
+497,UF_RES01,,False,Other,,-,-,-
+498,PETDAG-2,Woodston,False,Battery,Peak Gen,-,3,-
+499,UF_EDF04,,False,Other,EDF Energy Customers,-,20,-
+500,CRES-3,,False,Other,Crest Energy,-,20,-
+501,UKPRA-24,,False,Gas Recip,UK Power Reserve,-,24,-
+502,ANSC-009,Ancala 9,False,Battery,Gore Street Capital,-,1 (-1),-
+503,ENOC-1,,False,Gas Recip,Enernoc UK,-,55,-
+504,CYNGE-4,Cynon Power,False,Gas Recip,Fern Trading,Z13,4,-
+505,KIWI-11,,False,Other,,-,11,-
+506,EDFE-2,,False,Other,,-,-,-
+507,HYTHE-1,,False,Other,RWE Generation UK,-,41,-
+508,HAB4-FFR,,False,Battery,Habitat,-,0,-
+509,MSST-1,,False,Supply,Pelham Storage,-,44,-
+510,STAGE-2,St Asaph Power,False,Gas Recip,Fern Trading,Z9,4,-
+511,2__BANGE001,2__BANGE001,True,Supply,Limejump Energy,-,50 (-18),11
+512,SOC7-FFR,,False,Supply,Social Energy,-,1,-
+513,PGSTR-14,,False,Other,Peak Gen Power 14,-,20,-
+514,UKPRA-10,,False,Gas Recip,UK Power Reserve,-,10,-
+515,LJDYN-2,,False,Supply,Limejump,-,7,-
+516,DBESSE-33,,False,Battery,Zenobe Energy,-,10,-
+517,2__HANGE003,Minety 1,True,Battery,Penso Power,Z13,50 (-50),50
+518,UKPRA-27,,False,Gas Recip,UK Power Reserve,-,8,-
+519,HAB5-FFR,Cleator,False,Battery,Gresham House,Z7,10 (-10),-
+520,UF_HAB01,,False,Other,,-,-,-
+521,KIWI-1,,False,Other,,-,3,-
+522,UKPRA-9,,False,Gas Recip,UK Power Reserve,-,10,-
+523,MARGE-1,Marden Power,False,Gas Recip,Fern Trading,Z8,5,-
+524,EDFE-4,,False,Supply,EDF Energy Customers,-,6,-
+525,UF_GBD15,,False,Other,GridBeyond,-,20,-
+526,PGFFR-8,,False,Supply,Peak Gen,-,0,-
+527,UKPRA-13,,False,Gas Recip,UK Power Reserve,-,20,-
+528,HAB3-FFR,Lockleaze,False,Battery,Gresham House,Z13,15 (-15),-
+529,BGIN-1,,False,Battery,Brook Green,-,1,-
+530,UF_REST2,,False,Other,,-,-,-
+531,RDLGE-3,,False,Gas Recip,Redlake Power,-,4,-
+532,KIWIE-5,,False,Supply,Kiwi Power,-,5,-
+533,MOD-5,,False,Other,Flexitricity,-,5,-
+534,ENDSR-5,,False,Supply,GridBeyond,-,0,-
+535,AG-BLIM02,,False,Other,,-,-,-
+536,HAB7-FFR,Glassenbury B,False,Battery,Gresham House,Z15,10 (-10),-
+537,UF_OPN01,,False,Other,,-,-,-
+538,MARGE-2,Marden Power,False,Gas Recip,Fern Trading,Z8,5,-
+539,NSFE02,,False,Battery,GRIDRESERVE,-,-,-
+540,2__EANGE001,2__EANGE001,True,Supply,Limejump Energy,-,50 (-19.86),3
+541,LARGE-2,,False,Gas Recip,Larigan Power,-,4,-
+542,CRES-2,,False,Other,Crest Energy,-,20,-
+543,UKPRA-1,,False,Gas Recip,UK Power Reserve,-,15,-
+544,2__AFSEN005,2__AFSENOK5,True,Battery,F&S Energy,-,10 (-7.626),0
+545,CRES-4,,False,Other,Crest Energy,-,20,-
+546,LJDYN-4,,False,Supply,Limejump,-,-,-
+547,KFLX-01,,False,Supply,Upside Energy,-,2,-
+548,KIWIE-2,Cenin,False,Battery,Gore Street Capital,Z13,4,-
+549,OEL1-FFR,,False,Other,,-,-,-
+550,OPEN-1,,False,Supply,Open Energi,-,2,-
+551,ARNKB-3,,False,Battery,GRIDRESERVE,-,-,-
+552,IRWGE-3,,False,Other,Irwell Power,-,4,-
+553,IRWGE-2,,False,Other,Irwell Power,-,4,-
+554,KIWIS-3,,False,Supply,Kiwi Power,-,0,-
+555,EDFE-1,,False,Battery,EDF Energy Customers,-,6,-
+556,AG -GEDF01,,False,Supply,EDF Energy Customers,-,20,-
+557,UKPRA-5,,False,Gas Recip,UK Power Reserve,-,13,-
+558,UF_FLX01,,False,Supply,Flexitricity,-,-,-
+559,KIWIS-1,,False,Supply,Kiwi Power,-,0,-
+560,KIWI-33,,False,Other,,-,46,-
+561,KIWI-5,,False,CCGT,Kiwi Power,-,43,-
+562,KIWIE-4,,False,Battery,Kiwi Power,-,0,-
+563,UF_STK01,,False,Other,,-,-,-
+564,LARGE-4,,False,Gas Recip,Larigan Power,-,4,-
+565,UF_GBD01,,False,Other,GridBeyond,-,8,-
+566,SOC4-FFR,,False,Supply,Social Energy,-,1,-
+567,IPSWA-1,,False,Other,BALANCE POWER,-,0,-
+568,DBESS-11,,False,Battery,Zenobe Energy,-,5,-
+569,LJDYN-6,,False,Supply,Limejump,-,-,-
+570,UF_KWP02,,False,Other,,-,-,-
+571,CMFH-1,,False,Supply,City Energy Management Services.,-,0,-
+572,SELGE-1,,False,Gas Recip,Selby Power,-,4,-
+573,LARGE-1,,False,Gas Recip,Larigan Power,-,4,-
+574,ENDSR-12,,False,Supply,GridBeyond,-,0,-
+575,ENDSR-6,,False,Supply,GridBeyond,-,0,-
+576,HAB6-FFR,Glassenbury A,False,Battery,Gresham House,Z15,40 (-40),-
+577,ANSC-005,Ancala 5,False,Battery,Gore Street Capital,-,1 (-1),-
+578,UF_KWP06,,False,Other,,-,-,-
+579,BEROV001,,False,Other,,-,-,-
+580,LLIM01,,False,Battery,Limejump Energy,-,13,-
+581,PGFFR-9,,False,Supply,Peak Gen,-,20,-
+582,AFSE-01,,False,Battery,Arenko Cleantech,-,10,-
+583,EDFE-9,,False,Battery,EDF Energy Customers,-,49,-
+584,ENDSR-4,,False,Supply,GridBeyond,-,0,-
+585,SELGE-4,,False,Gas Recip,Selby Power,-,4,-
+586,CMFH-2,,False,Supply,City Energy Management Services.,-,0,-
+587,UPEN-1,,False,Supply,Upside Energy,-,-,-
+588,UF_GBD13,,False,Other,GridBeyond,-,3,-
+589,HLIM01,,False,Battery,Limejump Energy,-,13,-
+590,UF_EDF02,,False,Other,,-,-,-
+591,UF_LJP11,,False,Other,,-,-,-
+592,LODGE-4,Loddon Power,False,Gas Recip,Fern Trading,Z16,4,-
+593,UF_GBD07,,False,Other,,-,-,-
+594,AFFR1,,False,Other,,-,-,-
+595,SOC10-FFR,,False,Supply,Social Energy,-,1,-
+596,CRES-7,,False,Other,Crest Energy,-,20,-
+597,HAB9-FFR,Wickham Market,False,Battery,Gresham House,-,49 (-49),-
+598,PGSTR-4,,False,Other,Peak Gen Top Co,-,20,-
+599,NPFRD-1,,False,Battery,NPower,-,0,-
+600,AFFR-2,,False,Battery,Sembcorp,Z7,20 (-20),-
+601,EDFE-6,,False,Other,,-,-,-
+602,ANSC-007,Ancala 6,False,Battery,Gore Street Capital,-,1 (-1),-
+603,DBESSA-33,,False,Battery,Zenobe Energy,-,9,-
+604,MOD-3,,False,Other,Flexitricity,-,3,-
+605,AFFR4,,False,Other,,-,-,-
+606,E_DIDC01G,Didcot GT 1,True,OCGT,Unknown,Z13,25,-
+607,UF_HAB04,,False,Other,,-,-,-
+608,PGSTR-11,,False,Other,Peak Gen Power 11,-,20,-
+609,RDLGE-2,,False,Gas Recip,Redlake Power,-,4,-
+610,SOC5-FFR,,False,Supply,Social Energy,-,1,-
+611,AFFR-4,,False,Battery,Sembcorp,Z7,10 (-10),-
+612,ANSC-001,Ancala 1,False,Battery,Gore Street Capital,-,1 (-1),-
+613,UF_GBD05,,False,Other,GridBeyond,-,12,-
+614,KIWI-6,,False,OCGT,Kiwi Power,-,45,-
+615,ENDSR-9,,False,Supply,GridBeyond,-,0,-
+616,UKPRA-17,,False,Gas Recip,UK Power Reserve,-,18,-
+617,ENDSR-1,,False,Supply,GridBeyond,-,0,-
+618,ANSC-008,Ancala 8,False,Battery,Gore Street Capital,-,1 (-1),-
+619,KIWIDA-1,,False,Battery,Kiwi Power,-,2,-
+620,KIWI-35,,False,Other,,-,6,-
+621,WOLGE-4,Wolverhampton Power,False,Gas Recip,Fern Trading,Z11,4,-
+622,AFFR-1,,False,Battery,Sembcorp,Z7,20 (-20),-
+623,KIWIS-2,,False,Supply,Kiwi Power,-,0,-
+624,HARGE-1,,False,Gas Recip,Harbourne Power,-,4,-
+625,2__HANGE001,2__HANGE001,True,Battery,Limejump Energy,-,50 (-9.234),20
+626,ANSC-003,Ancala 3,False,Battery,Gore Street Capital,-,1 (-1),-
+627,PGFFR-7,,False,Supply,Peak Gen,-,0,-
+628,UF_UPE02,,False,Other,,-,-,-
+629,MANX-1,,False,Other,,-,20,-
+630,UF_LJP02,,False,Other,,-,-,-
+631,UF_EDF03,,False,Other,EDF Energy Customers,-,20,-
+632,UF_KWP03,,False,Other,,-,-,-
+633,EDFE-8,Rockfarm,False,Battery,SUSI Partners,Z13,20 (-20),-
+634,WOLGE-2,Wolverhampton Power,False,Gas Recip,Fern Trading,Z11,4,-
+635,IRWGE-4,,False,Other,Irwell Power,-,4,-
+636,KIWI-34,,False,Other,,-,10,-
+637,SOC2-FFR,,False,Supply,Social Energy,-,1,-
+638,UF_GBD02,,False,Other,GridBeyond,-,14,-
+639,UF_UKP01,,False,Other,,-,-,-
+640,PGFFR-6,,False,Supply,Peak Gen,-,20,-
+641,DBESSH-33,,False,Battery,Zenobe Energy,-,9,-
+642,UF_PLH02,,False,Other,,-,-,-
+643,CADGE-3,Cadoxton Power,False,Gas Recip,Fern Trading,Z13,4,-
+644,UKPRA-28,,False,Gas Recip,UK Power Reserve,-,20,-
+645,SOC1-FFR,,False,Supply,Social Energy,-,1,-
+646,CBSO-2,,False,Supply,Centrica Business Solutions UK,-,0,-
+647,FTE-1,,False,CHP,,-,3,-
+648,GBND-2,,False,Battery,GridBeyond,-,31,-
+649,UF_PLH03,,False,Other,,-,-,-
+650,SOC9-FFR,,False,Supply,Social Energy,-,1,-
+651,ENDSR-3,,False,Supply,GridBeyond,-,0,-
+652,VEST-2,,False,Battery,VEST Energy,-,4,-
+653,UPEN-2,,False,Supply,Upside Energy,-,1,-
+654,UKPRA-19,,False,Gas Recip,UK Power Reserve,-,20,-
+655,UPEN02,,False,Battery,KRAKENFLEX,-,1,-
+656,VEST-3,,False,Supply,VEST Energy,-,5,-
+657,WOLGE-1,Wolverhampton Power,False,Gas Recip,Fern Trading,Z11,4,-
+658,EONDC-03,,False,Battery,Eon Uk Heat,-,10 (-10),-
+659,2__EFLEX003,2__EFLEX003,True,Supply,Flexitricity,-,49,0
+660,STAGE-3,St Asaph Power,False,Gas Recip,Fern Trading,Z9,4,-
+661,UKPRA-8,,False,Gas Recip,UK Power Reserve,-,10,-
+662,AG-ELIM03,,False,Supply,Limejump Energy,-,-,-
+663,WHAGE-2,Wharf Power,False,Gas Recip,Fern Trading,Z9,4,-
+664,STAGE-1,St Asaph Power,False,Gas Recip,Fern Trading,Z9,4,-
+665,GBND_4,,False,Battery,GridBeyond,-,1,-
+666,E_GRFLB-1,Greenfield Road,True,Battery,Conrad Energy,Z12,35 (-35),-
+667,AG-ELIM02,,False,Supply,Limejump Energy,-,-,-
+668,LJDYP-4,,False,Supply,Limejump,-,-,-
+669,E_DIDC04G,Didcot GT 4,True,OCGT,Unknown,Z13,25,-
+670,LODGE-2,Loddon Power,False,Gas Recip,Fern Trading,Z16,4,-
+671,HARGE-3,,False,Gas Recip,Harbourne Power,-,4,-
+672,SELGE-3,,False,Gas Recip,Selby Power,-,4,-
+673,FTE-4,,False,CHP,,-,4,-
+674,RDLGE-1,,False,Gas Recip,Redlake Power,-,4,-
+675,TREGN-1,,False,Other,First Renewable Alpha,-,0,-
+676,ANSC-102,Rufford,False,Battery,Gresham House,Z10,7 (-7),-
+677,UF_OSS02,,False,Other,Origami Energy,-,10,-
+678,KIWI-8,,False,Other,,-,10,-
+679,WHAGE-1,Wharf Power,False,Gas Recip,Fern Trading,Z9,4,-
+680,AG-AEDF02,EDFE Aggregate Eastern 02,True,Supply,EDF Energy Customers,-,24 (-20.2),-
+681,DBESSF-33,,False,Battery,Zenobe Energy,-,10,-
+682,SOC6-FFR,,False,Supply,Social Energy,-,1,-
+683,LODGE-3,Loddon Power,False,Gas Recip,Fern Trading,Z16,4,-
+684,UF_KWP01,,False,Other,Kiwi Power,-,10,-
+685,SKFT-1,,False,Supply,Statkraft Markets,-,-,-
+686,KIWI-08,,False,Other,Kiwi Power,-,3,-
+687,UF_GBD14,,False,Other,GridBeyond,-,20,-
+688,UF_GBD03,,False,Other,GridBeyond,-,9,-
+689,CYNGE-3,Cynon Power,False,Gas Recip,Fern Trading,Z13,4,-
+690,GBND_6,,False,Battery,GridBeyond,-,1,-
+691,ANSC102,,False,Supply,ANESCO,-,7,-
+692,DBESSC-33,,False,Battery,Zenobe Energy,-,10,-
+693,CULGE-3,Culvery Power,False,Gas Recip,Fern Trading,Z9,6,-
+694,KILGE-2,Kiln Power,False,Gas Recip,Fern Trading,Z11,4,-
+695,UF_FLX02,,False,Battery,OSSPV001,-,9,-
+696,CADGE-2,Cadoxton Power,False,Gas Recip,Fern Trading,Z13,4,-
+697,UF_GBD04,,False,Other,GridBeyond,-,9,-
+698,WHAGE-3,Wharf Power,False,Gas Recip,Fern Trading,Z9,4,-
+699,IPSWB-2,,False,Other,EQUIVALENCE ENERGY,-,0,-
+700,UKPRA-7,,False,Gas Recip,UK Power Reserve,-,7,-
+701,GBND_3,,False,Battery,GridBeyond,-,2,-
+702,MOD-4,,False,Other,Flexitricity,-,4,-
+703,REST-1,,False,Other,Restore Flexpond UK,-,5,-
+704,DRAX_01Z,,False,Other,Drax Power,-,-,-
+705,LODGE-1,Loddon Power,False,Gas Recip,Fern Trading,Z16,4,-
+706,CRES-6,,False,Other,Crest Energy,-,20,-
+707,UPEN-02,,False,Battery,KRAKENFLEX,-,1,-
+708,CRES-5,,False,Other,Crest Energy,-,20,-
+709,E_DIDC02G,Didcot GT 2,True,OCGT,Unknown,Z13,25,-
+710,KIWI-09,,False,Other,Kiwi Power,-,3,-
+711,UF_LJP12,,False,Other,,-,-,-
+712,AG_CBS06B,,False,Battery,CENTRICA BUSINESS SOLUTIONS UK OPTIMISATION,-,18,-
+713,MARGE-3,Marden Power,False,Gas Recip,Fern Trading,Z8,5,-
+714,GBND-3,,False,Other,GridBeyond,-,12,-
+715,UF_OSS01,Port of Tilbury,False,Battery,Gore Street Capital,Z15,9 (-9),-
+716,KILGE-3,Kiln Power,False,Gas Recip,Fern Trading,Z11,4,-
+717,AFSE01,Nevendon,False,Battery,Gresham House,Z15,10 (-10),-
+718,WOLGE-3,Wolverhampton Power,False,Gas Recip,Fern Trading,Z11,4,-
+719,UF_GBD09,,False,Other,GridBeyond,-,20,-
+720,IPSWB-1,,False,Other,EQUIVALENCE ENERGY,-,20,-
+721,CULGE-1,Culvery Power,False,Gas Recip,Fern Trading,Z9,4,-
+722,DBESSG-33,,False,Battery,Zenobe Energy,-,10,-
+723,KIWI-46,,False,Other,Kiwi Power,-,10,-
+724,ANSC-010,Ancala 10,False,Battery,Gore Street Capital,-,1 (-1),-
+725,KIWI-31,,False,Other,,-,17,-
+726,KILGE-1,Kiln Power,False,Gas Recip,Fern Trading,Z11,4,-
+727,ANSC-002,Ancala 2,False,Battery,Gore Street Capital,-,1 (-1),-
+728,UF_FLXT01,,False,Battery,Flexitricity,-,10,-
+729,UF_UPE01,,False,Other,,-,-,-
+730,ENDSR-8,,False,Supply,GridBeyond,-,0,-
+731,KIWI-2,,False,Other,,-,6,-
+732,ENDSR-10,,False,Supply,GridBeyond,-,0,-
+733,KIWI-7,,False,Other,,-,9,-
+734,MNOR-01,Stairfoot,True,Battery,Gresham House,Z8,40 (-40),-
+735,KIWI-20,,False,Other,,-,25,-
+736,AFFR-5,,False,Battery,Sembcorp,Z7,48 (-48),-
+737,HAB2-FFR,Wolverhampton,False,Battery,Gresham House,Z11,5 (-5),-
+738,AFFR3,,False,Other,,-,-,-
+739,BDGW-1,Cheshire OCGT,False,OCGT,RWE Generation UK,Z9,40,-
+740,EONDC-01,,False,Battery,Eon Uk Heat,-,4,-
+741,UF_PGP01,,False,Other,,-,-,-
+742,PGFFR-4,,False,Supply,Peak Gen,-,0,-
+743,MARGE-4,Marden Power,False,Gas Recip,Fern Trading,Z8,5,-
+744,UKPRA-11,,False,Gas Recip,UK Power Reserve,-,20,-
+745,ENDSR-2,,False,Supply,GridBeyond,-,0,-
+746,UKPRA-21,,False,Gas Recip,UK Power Reserve,-,20,-
+747,2__FANGE001,2__FANGE001,True,Supply,Limejump Energy,-,50 (-3.72),7
+748,MOD-10,,False,CHP,Flexitricity,-,10,-
+749,KIWIS-4,,False,Supply,Kiwi Power,-,0,-
+750,ANSC101,,False,Supply,ANESCO,-,8,-
+751,ENDSR-7,,False,Supply,GridBeyond,-,0,-
+752,UF_GBD12,,False,Other,GridBeyond,-,18,-
+753,HARGE-4,,False,Gas Recip,Harbourne Power,-,4,-
+754,GBND_2,,False,Battery,GridBeyond,-,2,-
+755,UF_EDF01,,False,Other,,-,-,-
+756,AFFR2,,False,Other,,-,-,-
+757,PETDAG-1,,False,Battery,Peak Gen,-,3,-
+758,CYNGE-1,Cynon Power,False,Gas Recip,Fern Trading,Z13,4,-
+759,ENDSR-11,,False,Supply,GridBeyond,-,0,-
+760,PLHM-1,,False,Battery,Statkraft Markets,-,-,-
+761,2__FFSEN005,2__FFSENOK5,True,Battery,F&S Energy,-,25 (-23.922),25
+762,2__PSMAR001,,True,Supply,Smartestenergy,-,0,0
+763,E_ROOSB-1,Roosecote,True,Battery,Centrica,Z9,49 (-49),49
+764,T_WHLWB-1,Whitelee,True,Battery,Scottish Power Renewables,Z6,50 (-50),50
+765,E_POTES-1,Port of Tyne,True,Battery,Gresham House,Z7,35 (-35),26
+766,2__BECOT003,,True,Supply,The Renewable Energy Co,-,7.3,7
+767,2__LECOT003,,True,Supply,The Renewable Energy Co,-,16.14,16
+768,2__GSTAT005,STAT_G6,True,Battery,Statkraft Markets,-,20 (-19.748),12
+769,E_ARBRB-1,Arbroath,True,Battery,Gresham House,Z4,35 (-35),35
+770,V__BEROV001,Hill Farm,True,Battery,Zenobe Energy,Z11,10 (-10),10
+771,T_FINL-1,Finlarig,True,Hydro,SSE Generation,Z4,16.5,17
+772,2__HANGE002,Minety 3,True,Battery,Penso Power,Z13,50 (-50),40
+773,2__GSTAT006,STAT_G7,True,Gas Recip,Statkraft Markets,-,6,6
+774,2__ASTAT005,Pelham,True,Battery,Statera,Z12,50 (-50),50
+775,2__NSTAT001,,True,Gas Recip,Statkraft Markets,-,20 (-2),20
+776,E_FASN-3,Fasnakyle G3,True,Hydro,SSE Generation,Z1,23,22
+777,T_FASN-2,Fasnakyle G2,True,Hydro,SSE Generation,Z1,23,23
+778,T_FASN-1,Fasnakyle G1,True,Hydro,SSE Generation,Z1,23,22
+779,T_BDCHW-1,Bad a Cheo Wind Farm,True,Wind,RWE Generation UK,Z1,27 (-1),26
+780,T_DRAXX-4,Drax 4,True,Biomass,Drax Power,Z8,645 (-32.48),645
+781,C__PSMAR001,,,Wind,,,,
+782,T_ACHRW-1,,,Wind,,,,
+783,ACHYW-1,,,Wind,,,,
+784,AG-PSMA01 ,,,Other,,,,
+785,E_AIRSW-1,,,Wind,,,,
+786,AKGLW-1,,,Wind,,,,
+787,T_ASLVW-1,,,Wind,,,,
+788,BGLAW-1,,,Wind,,,,
+789,BNAKW-1,,,Wind,,,,
+790,BOULW-1,,,Wind,,,,
+791,BOYNW-1,,,Wind,,,,
+792,E_BRGG-1,,,CCGT,,,,
+793,BTUIW-1,,,Wind,,,,
+794,E_BURBW-1,,,Other,,,,
+795,CAUSW-1,,,Wind,,,,
+796,CDWTW-1,,,Wind,,,,
+797,2_PPGEN003,,,Wind,,,,
+798,E_CNCLW-1,,,Wind,,,,
+799,CRMHW-1,,,Wind,,,,
+800,CRMNW-1,,,Wind,,,,
+801,CRYRW-1,,,Wind,,,,
+802,T_DDGNO-4,,,Wind,,,,
+803,T_DEEP-1,,,CCGT,,,,
+804,DEUCW-1,,,Wind,,,,
+805,T_DINO-1,,,Pumped Storage,,,,
+806,2__NSMAR001,,,Biomass,,,,
+807,T_DNGB21,,,Nuclear,,,,
+808,T_DNGB22,,,Nuclear,,,,
+809,DRDGW-1,,,Wind,,,,
+810,DUMMW-1,,,Wind,,,,
+811,EARBW-1,,,Wind,,,,
+812,EDTRW-1,,,Wind,,,,
+813,E_FAWN-1,,,CCGT,,,,
+814,E_FELL-1,,,CCGT,,,,
+815,FRBRW-1,,,Wind,,,,
+816,E_GLCHW-1,,,Wind,,,,
+817,E_GNFSW-2,,,Wind,,,,
+818,T_GRMO-1,,,CCGT,,,,
+819,GRUB-1,,,Hydro,,,,
+820,GRUB-2,,,Hydro,,,,
+821,HALSW-1,,,Wind,,,,
+822,HAWFW-1,,,Wind,,,,
+823,E_HBHDW-1,,,Wind,,,,
+824,T_HEYM11,,,Nuclear,,,,
+825,T_HEYM12,,,Nuclear,,,,
+826,T_HEYM27,,,Nuclear,,,,
+827,T_HEYM28,,,Nuclear,,,,
+828,T_HINB-7,,,Nuclear,,,,
+829,T_HINB-8,,,Nuclear,,,,
+830,E_HLGLW-1,,,Wind,,,,
+831,T_HOWBO-1,,,Wind,,,,
+832,T_HOWBO-2,,,Wind,,,,
+833,T_HOWBO-3,,,Wind,,,,
+834,T_HRTL-1,,,Nuclear,,,,
+835,T_HRTL-2,,,Nuclear,,,,
+836,T_HUNB-7,,,Nuclear,,,,
+837,T_HUNB-8,,,Nuclear,,,,
+838,INAW-1,,,Hydro,,,,
+839,T_JGPR-1,,,Biomass,,,,
+840,T_KILNS-1,,,CCGT,,,,
+841,E_KINCW-1,,,Wind,,,,
+842,KLDMW-1,,,Wind,,,,
+843,T_KTHLW-1,,,Wind,,,,
+844,LGPKW-1,,,Wind,,,,
+845,E_LYNE1,,,Biomass,,,,
+846,E_LYNE2,,,Biomass,,,,
+847,E_LYNE3,,,Biomass,,,,
+848,E_MARK-1,,,Biomass,,,,
+849,NOVAW-1,,,Wind,,,,
+850,NOVAW-2,,,Wind,,,,
+851,NSQYT-1,,,Other,,,,
+852,2_PPGEN002,,,Wind,,,,
+853,T_PGBIW-1,,,Wind,,,,
+854,T_PINFB 1,,,Other,,,,
+855,T_PINFB 2,,,Other,,,,
+856,T_PINFB 3,,,Other,,,,
+857,T_PINFB 4,,,Other,,,,
+858,PTLDW-1,,,Wind,,,,
+859,RANN-1,,,Hydro,,,,
+860,RANN-2,,,Hydro,,,,
+861,RANN-3,,,Hydro,,,,
+862,E_REDGT-1,,,OCGT,,,,
+863,T_RREW-1,,,Wind,,,,
+864,E_RSHLW-1,,,Wind,,,,
+865,SFIL-1,,,Hydro,,,,
+866,SHIN-1,,,Hydro,,,,
+867,SHIN-2,,,Hydro,,,,
+868,T_SIMEC-1,,,Biomass,,,,
+869,T_SIZB-1,,,Nuclear,,,,
+870,T_SIZB-2,,,Nuclear,,,,
+871,SOKYW-1 ,,,Other,,,,
+872,SPEY-1,,,Biomass,,,,
+873,STCR-1,,,Biomass,,,,
+874,STPSW-1,,,Wind,,,,
+875,T_SUTB-1,,,CCGT,,,,
+876,T_SVRP-10,,,CCGT,,,,
+877,T_SVRP-20,,,CCGT,,,,
+878,TANGW-1,,,Wind,,,,
+879,T_TKNEW-1,,,Wind,,,,
+880,T_TKNWW-1,,,Wind,,,,
+881,TMNCW-1,,,Wind,,,,
+882,TMWLW-1,,,Wind,,,,
+883,TONG-1,,,Hydro,,,,
+884,TONG-2,,,Hydro,,,,
+885,TONG-3,,,Hydro,,,,
+886,T_TORN-1,,,Nuclear,,,,
+887,T_TORN-2,,,Nuclear,,,,
+888,T_TRLGW-1,,,Wind,,,,
+889,T_TSREP-1,,,Biomass,,,,
+890,TUMB-1,,,Hydro,,,,
+891,TUMB-2,,,Hydro,,,,
+892,T_USKM-13,,,Biomass,,,,
+893,T_USKM-14,,,Biomass,,,,
+894,T_USKM-15,,,Biomass,,,,
+895,T_WILCT-1,,,Biomass,,,,
+896,E_WINN-1,,,Other,,,,
+897,T_WTGRW-1,,,Wind,,,,
